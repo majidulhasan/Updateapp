@@ -1,5 +1,5 @@
 {
-  "version": "2.1",
+  "version": "5.1.5.008.gp",
   "apk": "https://yourcdn.com/yourapp.apk",
   "changelog": "• বাগ ফিক্স\n• নতুন অপশন",
   "mandatory": true,
