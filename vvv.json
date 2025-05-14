@@ -1,12 +1,4 @@
 {
-  "version": "6.1.5.007.gp",
-  "apk": "https://yourcdn.com/yourapp.apk",
-  "changelog": "• বাগ ফিক্স\n• নতুন অপশন",
-  "mandatory": true,
-  "share_text": "এই অ্যাপটা দারুন: https://yourcdn.com/yourapp.apk",
-  "dialog_title": "আপডেট এসেছে",
-  "dialog_message": "নতুন ফিচার পেতে এখনই আপডেট করুন!",
-  "update_button": "হ্যাঁ, আপডেট",
-  "later_button": "না, পরে",
-  "share_button": "শেয়ার করুন"
+    "latest_version": 5.1.5.007.gp,
+    "download_url": "https://yourappdownlod.link"
 }
