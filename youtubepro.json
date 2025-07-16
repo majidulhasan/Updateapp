@@ -1,14 +1,40 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0",
-  "Msg": "New update is available, to continue in our app please update it.
-
-What's new:
-- Performance Improvements.
-- Bug Fixes.
-- New Features introduced.
-- Others minor changes.
-
-Thanks for using",
-  "downloadLink": "https://t.me/PremiumHub24"
+  "com.biomes.vanced": {
+    "latestVersionCode": 14701731,
+    "latestVersion": "14.7.0",
+    "url": "",
+    "forceUpdate": true,
+    "style": 3,
+    "dateSystem": true,
+    "expiryDate": "July-11-2025",
+    "dialogTexts": {
+      "title": "NEW UPDATE AVAILABLE",
+      "message": "To continue using the app, you must update to the latest version.",
+      "updateButton": "UPDATE NOW",
+      "laterButton": "LATER"
+    },
+    "dialogStyle3": {
+      "imageWidth": 160,
+      "imageHeight": 160
+    }
+  },
+  "com.imaginstudio.imagetools.pixellab": {
+    "latestVersionCode": 10,
+    "latestVersion": "1.2.0",
+    "url": "https://play.google.com/store/apps/details?id=com.example.app2",
+    "forceUpdate": true,
+    "style": 3,
+    "dateSystem": true,
+    "expiryDate": "July-11-2025",
+    "dialogTexts": {
+      "title": "NEW UPDATE AVAILABLE",
+      "message": "To continue using the app, you must update to the latest version.",
+      "updateButton": "UPDATE NOW",
+      "laterButton": "LATER"
+    },
+    "dialogStyle3": {
+      "imageWidth": 160,
+      "imageHeight": 160
+    }
   }
+}
